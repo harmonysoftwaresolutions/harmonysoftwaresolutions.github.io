@@ -8,8 +8,8 @@
                 </div>
                 <div class="col-sm-6">
                     <ul class="pull-right">
-                        <li><a href="index.php">Inicio</a></li>
-                        <li><a href="services.php">Servicios</a></li>
+                        <li><a href="index.html">Inicio</a></li>
+                        <li><a href="services.html">Servicios</a></li>
                         <li><a href="#">Faq</a></li>
                         <li><a href="#">Contact Us</a></li>
                     </ul>
